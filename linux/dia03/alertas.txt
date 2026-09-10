@@ -1,0 +1,6 @@
+2026-09-10 08:20:55 ERROR falha ao conectar no servidor backup01
+2026-09-10 08:30:33 ERROR timeout na conexao com db01
+2026-09-10 08:45:00 ERROR falha no backup
+2026-09-10 08:50:12 ERROR servidor web02 parou
+2026-09-10 08:10:44 WARNING espaco em disco acima de 80%
+2026-09-10 08:35:10 WARNING memoria acima de 75%

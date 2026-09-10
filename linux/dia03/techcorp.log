@@ -1,0 +1,11 @@
+2026-09-10 08:00:01 INFO servidor web01 iniciado
+2026-09-10 08:03:12 INFO servidor db01 conectado
+2026-09-10 08:10:44 WARNING espaco em disco acima de 80%
+2026-09-10 08:15:21 INFO backup iniciado
+2026-09-10 08:20:55 ERROR falha ao conectar no servidor backup01
+2026-09-10 08:25:09 INFO usuario techadmin autenticado
+2026-09-10 08:30:33 ERROR timeout na conexao com db01
+2026-09-10 08:35:10 WARNING memoria acima de 75%
+2026-09-10 08:40:42 INFO servico nginx funcionando
+2026-09-10 08:45:00 ERROR falha no backup
+2026-09-10 08:50:12 ERROR servidor web02 parou

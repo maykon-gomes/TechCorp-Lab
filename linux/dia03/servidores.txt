@@ -1,0 +1,6 @@
+web01 ubuntu 192.168.10.10 ativo
+web02 ubuntu 192.168.10.11 ativo
+db01 ubuntu 192.168.10.20 ativo
+backup01 debian 192.168.10.30 inativo
+dns01 ubuntu 192.168.10.40 ativo
+files01 debian 192.168.10.50 ativo
